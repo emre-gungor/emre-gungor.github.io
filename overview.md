@@ -1,19 +1,15 @@
-<!DOCTYPE html>
+
+
 <html lang = "en">
 <head>
 <meta charset = "UTF-8">
-<title> My 2nd Page</title>
+
 <link rel="icon" type="image/png" href="logo.png">
 <link rel="stylesheet" href="https://fontawesome.com/icons">
 </head>
 <body>
 	<h1>Overview</h1>
-	<blockquote cite="Alfred Renyi">"A mathematician is a device for turning coffee into theorems." Alfred Renyi</blockquote>
-
-<video src="bircanyongası.MOV" width="250" controls>
-		Your browser does not support the <code>video</code> element.
-
-</video>		
+	<blockquote cite="Alfred Renyi">"A mathematician is a device for turning coffee into theorems." Alfred Renyi</blockquote>		
 	
 	
 <table>
