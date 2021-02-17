@@ -2,9 +2,8 @@
 
 <head>
 <meta charset = "UTF-8">
-<title>My First Page</title>
+# My First Page
 <link rel="icon" type="image/png" href="logo.png"/>
-<script src="https://kit.fontawesome.com/e2b9342d1a.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -16,7 +15,7 @@
 </div>
 
 
-	<h1> Hello Everybody</h1>
+Hello Everybody!
 	
 <figure>
 <img src="Emre_Gungor_Vesikalık.jpg" height="250" alt="Emre Vesikalık" title="Emre Güngör" />
