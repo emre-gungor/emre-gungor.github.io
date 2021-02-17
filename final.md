@@ -2,9 +2,9 @@
 <html lang = "en">
 <head>
 <meta charset = "UTF-8">
-<title>My 5th Page</title>
+## My 5th Page
 <link rel="icon" type="image/png" href="logo.png">
-<script src="https://kit.fontawesome.com/e2b9342d1a.js" crossorigin="anonymous"></script>
+
 </head>
 <body>
 	<h1>Final</h1>
