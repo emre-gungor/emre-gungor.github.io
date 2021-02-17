@@ -2,7 +2,7 @@
 
 <head>
 <meta charset = "UTF-8">
-# My First Page
+<h1> My First Page </h1>
 <link rel="icon" type="image/png" href="logo.png"/>
 </head>
 
