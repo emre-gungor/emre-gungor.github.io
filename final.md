@@ -9,7 +9,7 @@
 <body>
 	<h1>Final</h1>
 
-	<ol>		
+<ol>		
     <li>Vegetables</li>	
     <li>Fruit</li>
     <ul>				
