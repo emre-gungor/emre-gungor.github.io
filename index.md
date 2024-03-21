@@ -24,7 +24,7 @@ Hello Everybody!
 </figure>
 
 <h2>About me</h2>
-	<p>Currently, I am a pilot for Turkish Airlines, flying with Airbus A320 family aircrafts For mor information, please refer my curriculum vitae.</p>
+	<p>Currently, I am a pilot for Turkish Airlines, flying with Airbus A320 family. For more information, please refer to my <nav><a target="_blank" href="Emre_Gungor_CV.pdf">Resume </a> <nav> curriculum vitae.</p>
 	
 
 <nav>
