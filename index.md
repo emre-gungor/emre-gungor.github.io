@@ -23,13 +23,13 @@ Hello Everybody!
 <figcaption>Gülüyorum zannederken...</figcaption>
 </figure>
 
-<h2>MATH571</h2>
-	<p>This is a basic course on Algebraic Geometry.</p>
+<h2>About me</h2>
+	<p>Currently, I am a pilot for Turkish Airlines, flying with Airbus A320 family aircrafts For mor information, please refer my curriculum vitae.</p>
 	
 
 <nav>
 	<ul>
-		<li><a target="_blank" href="overview.html">Overview </a> </li>
+		<li><a target="_blank" href="Emre_Gungor_CV.pdf">Resume </a> </li>
 		<li><a target="_blank" href="preliminaries.html">Preliminaries </a> </li>
 		<li><a target="_blank" href="midterm.html">Midterm</a></li>
 		<li><a target="_blank" href="final.html">Final</a></li>
@@ -52,7 +52,7 @@ Hello Everybody!
  </audio>
 
 <footer>
-	&copy; 2020 by
+	&copy; 2024 by
 	<a href="https://instagram.com/eemreegungor"> Emre Güngör<i class="fab fa-instagram"></i></a>
 	
 </footer>
