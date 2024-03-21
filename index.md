@@ -24,12 +24,11 @@ Hello Everybody!
 </figure>
 
 <h2>About me</h2>
-	<p>Currently, I am a pilot for Turkish Airlines, flying with Airbus A320 family. For more information, please refer to my <nav><a target="_blank" href="Emre_Gungor_CV.pdf">Resume </a> <nav> curriculum vitae.</p>
+	<p>Currently, I am a pilot for Turkish Airlines, flying with Airbus A320 family. For more information, please refer to my <nav><a target="_blank" href="Emre_Gungor_CV.pdf">curriculum vitae </a> <nav>. </p>
 	
 
 <nav>
 	<ul>
-		<li><a target="_blank" href="Emre_Gungor_CV.pdf">Resume </a> </li>
 		<li><a target="_blank" href="preliminaries.html">Preliminaries </a> </li>
 		<li><a target="_blank" href="midterm.html">Midterm</a></li>
 		<li><a target="_blank" href="final.html">Final</a></li>
